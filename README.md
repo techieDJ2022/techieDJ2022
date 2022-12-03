@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techieDJ2022
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning machine learning and AI
+- 🌱 I love machine learning and AI and technology, I am ex-Mainframe COBOL devloper
 - 💞️ I’m looking to collaborate on computer vision projects or any DL projects
 - 📫 How to reach me : devangi83@gmail.com
 
